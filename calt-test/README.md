@@ -11,8 +11,11 @@ clj -Sverbose -m fira-code.main
 - Parsed/formatted output:
   - [calt-ligatures.txt](./calt-ligatures.txt) format: `Name | Symbols | Ligatures`
   - [calt-names.txt](./calt-names.txt) format: `Name`
-  - [calt-symbols.txt](./calt-symbols.txt)format: `Symbols | Ligatures`
+  - [calt-symbols.txt](./calt-symbols.txt) format: `Symbols | Ligatures`
 
-## Demo
-- FiraCode vs MonaLisa in Kitty with `disable_ligatures cursor` set
-![calt-demo-firacode-vs-monalisa.mov](./calt-demo-firacode-vs-monalisa.mov)
+## Demo (Kitty with `disable_ligatures cursor` set)
+### FiraCode Calt Demo
+[FiraCode Calt Demo](https://user-images.githubusercontent.com/10135646/213957329-e9d1863b-f2fd-47d0-9555-5d9af00e9461.mov)
+### MonaLisa Calt Demo
+[MonaLisa Calt Demo](https://user-images.githubusercontent.com/10135646/213957342-77d2d04b-78b6-4e4c-961c-78c4c4c60ec4.mov)
+
