@@ -1,5 +1,5 @@
 ## Motivation
-- Feature requrest opened in MonaLisa font: https://github.com/MonoLisaFont/feedback/issues/191
+- Feature request opened in MonaLisa font: https://github.com/MonoLisaFont/feedback/issues/191
 - Demonstrate differences between MonaLisa font and FiraCode font in Kitty with `disable_ligatures cursor` set.
 
 ## Steps performed
