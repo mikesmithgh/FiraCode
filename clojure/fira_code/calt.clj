@@ -1,5 +1,4 @@
-(ns fira-code.calt
-  (:require
+(ns fira-code.calt (:require
    [clojure.string :as str]
    [fira-code.coll :as coll]
    [fira-code.glyphs :as glyphs]
@@ -331,5 +330,9 @@
         (get counts 3) " triples, "
         (get counts 4) " quadruples, "
         (count ligas') " total" #_")"))
+
+    (println ligas)
+    ; (println calt)
+    ; (println glyphs)
 
     (glyphs/update-code font :features "calt" (constantly calt))))

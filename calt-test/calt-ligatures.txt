@@ -1,0 +1,86 @@
+[w w w]                                      w w w         www   
+[hyphen hyphen]                              - -           --    
+[hyphen asciitilde]                          - ~           -~    
+[braceleft bar]                              { |           {|    
+[bracketleft bar]                            [ |           [|    
+[bracketright numbersign]                    ] #           ]#    
+[period period]                              . .           ..    
+[period period period]                       . . .         ...   
+[period period equal]                        . . =         ..=   
+[period period less]                         . . <         ..<   
+[period question]                            . ?           .?    
+[colon colon]                                : :           ::    
+[colon colon colon]                          : : :         :::   
+[colon colon equal]                          : : =         ::=   
+[colon equal]                                : =           :=    
+[semicolon semicolon]                        ; ;           ;;    
+[exclam exclam]                              ! !           !!    
+[exclam exclam period]                       ! ! .         !!.   
+[exclam equal]                               ! =           !=    
+[exclam equal equal]                         ! = =         !==   
+[question period]                            ? .           ?.    
+[question question]                          ? ?           ??    
+[question equal]                             ? =           ?=    
+[asterisk asterisk]                          * *           **    
+[asterisk asterisk asterisk]                 * * *         ***   
+[asterisk greater]                           * >           *>    
+[asterisk slash]                             * /           */    
+[numbersign parenleft]                       # (           #(    
+[numbersign braceleft]                       # {           #{    
+[numbersign bracketleft]                     # [           #[    
+[numbersign colon]                           # :           #:    
+[numbersign exclam]                          # !           #!    
+[numbersign question]                        # ?           #?    
+[numbersign equal]                           # =           #=    
+[numbersign underscore]                      # _           #_    
+[numbersign underscore parenleft]            # _ (         #_(   
+[slash asterisk]                             / *           /*    
+[slash greater]                              / >           />    
+[slash slash]                                / /           //    
+[slash slash slash]                          / / /         ///   
+[slash backslash]                            / \           /\    
+[backslash slash]                            \ /           \/    
+[ampersand ampersand]                        & &           &&    
+[bar braceright]                             | }           |}    
+[bar bracketright]                           | ]           |]    
+[bar bar]                                    | |           ||    
+[bar bar bar]                                | | |         |||   
+[bar bar bar greater]                        | | | >       |||>  
+[bar bar greater]                            | | >         ||>   
+[bar greater]                                | >           |>    
+[dollar greater]                             $ >           $>    
+[plus plus]                                  + +           ++    
+[plus plus plus]                             + + +         +++   
+[plus greater]                               + >           +>    
+[equal equal]                                = =           ==    
+[equal equal equal]                          = = =         ===   
+[greater equal]                              > =           >=    
+[greater greater]                            > >           >>    
+[greater greater greater]                    > > >         >>>   
+[less exclam hyphen hyphen]                  < ! - -       <!--  
+[less asterisk]                              < *           <*    
+[less asterisk greater]                      < * >         <*>   
+[less bar]                                   < |           <|    
+[less bar bar]                               < | |         <||   
+[less bar bar bar]                           < | | |       <|||  
+[less bar greater]                           < | >         <|>   
+[less dollar]                                < $           <$    
+[less dollar greater]                        < $ >         <$>   
+[less plus]                                  < +           <+    
+[less plus greater]                          < + >         <+>   
+[less equal]                                 < =           <=    
+[less greater]                               < >           <>    
+[less less]                                  < <           <<    
+[less less less]                             < < <         <<<   
+[less asciitilde]                            < ~           <~    
+[less asciitilde greater]                    < ~ >         <~>   
+[less asciitilde asciitilde]                 < ~ ~         <~~   
+[less slash]                                 < /           </    
+[less slash greater]                         < / >         </>   
+[asciitilde hyphen]                          ~ -           ~-    
+[asciitilde at]                              ~ @           ~@    
+[asciitilde greater]                         ~ >           ~>    
+[asciitilde asciitilde]                      ~ ~           ~~    
+[asciitilde asciitilde greater]              ~ ~ >         ~~>   
+[asciicircum equal]                          ^ =           ^=    
+[percent percent]                            % %           %%    
